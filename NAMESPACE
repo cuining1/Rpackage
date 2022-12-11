@@ -1,0 +1,5 @@
+
+export(za.test, zc.test, zk.test)
+importFrom("stats", "complete.cases", "pnorm", "sd", "ks.test","pt","rt")
+importFrom("stats", "pbeta", "pexp", "pgamma", "punif", "pweibull", "rbeta", "rexp", "rgamma", "rnorm", "runif", "rweibull", "var")
+importFrom("MASS", "fitdistr")
